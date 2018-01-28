@@ -129,3 +129,13 @@ Par contre, il me semble qu'un sparkline est une bonne représentation visuelle 
 * Sparkline charts | Highcharts: https://www.highcharts.com/demo/sparkline
 
 * What is sparkline? - Definition from WhatIs.com: http://searchbusinessanalytics.techtarget.com/definition/sparkline
+
+## Cours 2
+
+### Graphique scatterplot (Block Builder)
+
+http://blockbuilder.org/javierantuna/e80286b5569e7cc3c725fbf9bf724e81
+
+### Projet *EuroTurismVis*
+
+https://github.com/javierantuna/EuroTurismVis
