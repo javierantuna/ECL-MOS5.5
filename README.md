@@ -130,6 +130,7 @@ Par contre, il me semble qu'un sparkline est une bonne représentation visuelle 
 
 * What is sparkline? - Definition from WhatIs.com: http://searchbusinessanalytics.techtarget.com/definition/sparkline
 
+
 ## Cours 2
 
 ### Graphique scatterplot (Block Builder)
@@ -139,3 +140,12 @@ http://blockbuilder.org/javierantuna/e80286b5569e7cc3c725fbf9bf724e81
 ### Projet *EuroTurismVis*
 
 https://github.com/javierantuna/EuroTurismVis
+
+
+## Cours 3
+
+### Transition des grouped/stacked charts (Block Builder)
+
+http://blockbuilder.org/javierantuna/290f6985ddc07f70c9f216ab72430dbd
+
+(cliquer sur le graphique pour changer de visualisation)
